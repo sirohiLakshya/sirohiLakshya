@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sirohiLakshya
 - 👀 I’m interested in coding/programming.
-- 🌱 I’m currently learning pandas library.
-- 💞️ I’m looking to collaborate on pandas.
+- 🌱 I’m currently learning flutter.
+- 💞️ I’m looking to collaborate on flutter projects.
 - 📫 How to reach me lakshyakumarsirohi@gmail.com
 
 <!---
